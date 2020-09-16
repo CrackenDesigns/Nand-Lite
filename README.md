@@ -1,4 +1,6 @@
 # NAND LITE
+# Mi versión del programador Nand Lite. Diseñado para utilizar el adaptador de memorias TSOP48 que se usa con el programador TL866.
+
 
 # Lista de componentes
 
@@ -23,6 +25,8 @@
 | J4                         | Conector 4 pin                   | 2,54mm PITCH      |
 | J5                         | Conector 2 x 12 Pin              | 2,54mm PITCH      |
 
+
+# My version of Nand Lite programmer. Designed to use with the TSOP48 adapter for the TL866 programmer.
 
 
 # BOM
